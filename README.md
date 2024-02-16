@@ -1,11 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=150&section=header&text=hello&fontSize=90" />
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **jjiyeong/jjiyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+https://github.com/jjiyeong
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
