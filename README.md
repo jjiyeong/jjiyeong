@@ -16,4 +16,4 @@ https://github.com/jjiyeong
 - ⚡ Fun fact: ...
 -->
 
-![snake gif](https://github.com/jjiyeong/jjiyeong/blob/output/github-contribution-grid-snake.svg)
+<!--![snake gif](https://github.com/jjiyeong/jjiyeong/blob/output/github-contribution-grid-snake.svg)-->
