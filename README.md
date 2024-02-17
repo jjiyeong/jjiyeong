@@ -17,3 +17,4 @@ https://github.com/jjiyeong
 -->
 
 ![snake gif](https://github.com/jjiyeong/jjiyeong/blob/output/github-contribution-grid-snake.svg) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjiyeong&show_icons=true&theme=dracula)
