@@ -19,6 +19,8 @@ https://github.com/jjiyeong
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Introduction : <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" />
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjiyeong&layout=compact&theme=dracula)
 <br>
