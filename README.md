@@ -64,7 +64,7 @@ Studying to become a developer.
     
   <br><br>
 
-  <div align=center>
+<div align=center>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjiyeong&layout=compact&theme=dracula)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjiyeong&show_icons=true&theme=dracula)
