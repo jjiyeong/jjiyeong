@@ -1,3 +1,4 @@
+<!-- header -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=150&section=header&text=hello&fontSize=90" />
 <!--### Hi there 👋-->
 
@@ -15,9 +16,10 @@ https://github.com/jjiyeong
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div align=center>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjiyeong&layout=compact&theme=dracula)
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjiyeong&show_icons=true&theme=dracula)
 ![snake gif](https://github.com/jjiyeong/jjiyeong/blob/output/github-contribution-grid-snake.svg) 
 
+</div>
