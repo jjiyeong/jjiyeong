@@ -15,8 +15,10 @@ https://github.com/jjiyeong
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjiyeong&show_icons=true&theme=dracula)
+<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjiyeong&layout=compact&theme=dracula)
-
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjiyeong&show_icons=true&theme=dracula)
+</div>
 ![snake gif](https://github.com/jjiyeong/jjiyeong/blob/output/github-contribution-grid-snake.svg) 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjiyeong&show_icons=true&theme=dracula) -->
