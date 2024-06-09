@@ -24,7 +24,7 @@ https://github.com/jjiyeong
         
 ## Introduction <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="35" height="35" />
 
-개발공부중.
+개발공부중입니다~~!!
 <br>
 
 </div>
