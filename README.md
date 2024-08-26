@@ -66,6 +66,6 @@ https://github.com/jjiyeong
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjiyeong&layout=compact&theme=dracula)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjiyeong&show_icons=true&theme=dracula)
-![snake gif](https://github.com/jjiyeong/jjiyeong/blob/output/github-contribution-grid-snake.svg) 
+<!--![snake gif](https://github.com/jjiyeong/jjiyeong/blob/output/github-contribution-grid-snake.svg) -->
 
 </div>
